@@ -11,7 +11,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I am Anushka Rodrigo</h1>
+<h1 align="center">Hello there 👋 I am Anushka Rodrigo</h1>
+
+###
+
+<h2 align="center">Undergraduate | Computer Science | USJ | Tech Enthusiast | Data Science Enthusiast | ICT tutor</h2>
 
 ###
 
@@ -19,7 +23,8 @@
 
 ###
 
-<p align="left">I'm Anushka from University of Sri Jayewardenepura<br><br>- 🔭 I’m working as an ICT tutor part time and improving my tech knowledge<br>- 📚 I'm currently learning in 2nd year of my university<br>- ⚡ In my free time I work on honing my skills towards data science</p>
+<p align="left">I am a positive-minded and motivated individual with a strong desire to succeed in everything I do. I work well both independently and in team settings, bringing a proactive and collaborative approach to every task. I have a strong interest in Data Science
+<br><br>- 🔭 I’m working as an ICT tutor part time while improving my tech knowledge<br>- 📚 I'm currently learning in 2nd year of my university<br>- ⚡ In my free time I work on honing my skills focusing in data science</p>
 
 ###
 
@@ -52,7 +57,10 @@
 ###
 
 <div align="center">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical" alt="anushka-rodrigo" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical" alt="anushka-rodrigo-top-langs" />
 </div>
 
 ###
