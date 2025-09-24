@@ -22,7 +22,10 @@
 ###
 
 <p align="left">I am a positive-minded and motivated individual with a strong desire to succeed in everything I do. I work well both independently and in team settings, bringing a proactive and collaborative approach to every task. I have a strong interest in Data Science
-<br><br>- 🔭 I’m working as an ICT tutor part time while improving my tech knowledge<br>- 📚 I'm currently learning in 2nd year of my university<br>- ⚡ In my free time I work on honing my skills focusing in data science</p>
+<br><br>
+  - 🔭 I’m working as an ICT tutor part time while improving my tech knowledge<br>
+  - 📚 I'm currently an undergraduate in University of Sri Jayewardenepura<br>
+  - ⚡ In my free time I work on honing my skills focusing in data science</p>
 
 ###
 
