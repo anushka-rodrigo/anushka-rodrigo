@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Undergraduate | Computer Science | USJ | Tech Enthusiast | Data Science Enthusiast | ICT tutor</h2>
+<h2 align="center">Undergraduate in CS | Data Science Enthusiast | ICT tutor</h2>
 
 ###
 
