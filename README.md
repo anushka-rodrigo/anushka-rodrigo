@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
- <h1>Hello there 👋 I am Anushka Rodrigo<br>Undergraduate in CS | Data Science Enthusiast | ICT tutor</h1>
+ <h1>Hello there 👋 I am Anushka Rodrigo</h1>
 </div>
 
 ###
