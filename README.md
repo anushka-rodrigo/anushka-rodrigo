@@ -12,7 +12,8 @@
 ###
 
 <div align="center">
-<p size=5><b>Hello there 👋 I am Anushka Rodrigo</b><br>Undergraduate in CS | Data Science Enthusiast | ICT tutor</p>
+ <h1>Hello there 👋 I am Anushka Rodrigo</h1>
+<h2>Undergraduate in CS | Data Science Enthusiast | ICT tutor</h2>
 </div>
 
 ###
