@@ -11,7 +11,9 @@
 
 ###
 
-<p style="font-size: 2.5em;"><b>Hello there 👋 I am Anushka Rodrigo</b><br>Undergraduate in CS | Data Science Enthusiast | ICT tutor</p>
+<div align="center">
+<p style="font-size: 5em;"><b>Hello there 👋 I am Anushka Rodrigo</b><br>Undergraduate in CS | Data Science Enthusiast | ICT tutor</p>
+</div>
 
 ###
 
