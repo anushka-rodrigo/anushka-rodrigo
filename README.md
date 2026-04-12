@@ -20,9 +20,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-  I'm a <strong>CS undergraduate</strong> at the University of Sri Jayewardenepura, building my foundation in <strong>Data Analytics, Data Science and Machine Learning</strong>, while also developing an understanding of Technical Project Management and data-driven decision-making.
-  <br><br>
-  Alongside my degree, I work as an <strong>ICT tutor</strong>, which keeps me sharp and accountable. I believe in that if you can explain it clearly, you actually understand it.
+  - 🎓 CS undergraduate at the University of Sri Jayewardenepura<br>
+  - 📊 Building my foundation in <strong>Data Analytics, Data Science & Machine Learning</strong><br>
+  - 📁 Developing understanding in <strong>Technical Project Management</strong> & data-driven decision-making<br>
+  - 🧑‍🏫 Working as an <strong>ICT tutor</strong> alongside my degree<br>
+  - 💡 Firm believer that if you can explain it clearly, you actually understand it
 </p>
 
 ###
