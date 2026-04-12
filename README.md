@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,anaconda,react,html,css,js,nodejs,express,mysql,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,python,anaconda,html,css,js,react,nodejs,express,electron,mysql,vscode,git,github,figma,postman" />
 </div>
 
 ###
@@ -44,8 +44,9 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="anushka-rodrigo" />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800" alt="anushka-rodrigo-top-langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800&hide_border=true" height="180" alt="anushka-rodrigo" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800&hide_border=true&langs_count=6" height="180" alt="anushka-rodrigo-top-langs" />
 
 </div>
 
