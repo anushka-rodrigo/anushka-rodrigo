@@ -61,9 +61,9 @@
 
 <div align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical" alt="anushka-rodrigo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="anushka-rodrigo" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical" alt="anushka-rodrigo-top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800" alt="anushka-rodrigo-top-langs" />
 </div>
 
 ###
