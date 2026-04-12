@@ -20,11 +20,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-  I'm a <strong>Computer Science undergraduate</strong> at the University of Sri Jayewardenepura, building my foundation in <strong>Data Science, Analytics, and Machine Learning</strong> — while also developing an understanding of Technical Project Management and data-driven decision-making.
+  I'm a <strong>CS undergraduate</strong> at the University of Sri Jayewardenepura, building my foundation in <strong>Data Analytics, Data Science and Machine Learning</strong>, while also developing an understanding of Technical Project Management and data-driven decision-making.
   <br><br>
-  Alongside my degree, I work as an <strong>ICT tutor</strong>, which keeps me sharp and accountable. Teaching reinforces what I learn, and I genuinely believe that if you can explain it clearly, you actually understand it.
-  <br><br>
-  I don't study to pass. Everything I'm learning — statistical thinking, data pipelines, problem-solving frameworks — I'm consciously mapping to how I'll apply it professionally. My goal is to graduate not just with a degree, but with a mindset and skill set that's already been tested.
+  Alongside my degree, I work as an <strong>ICT tutor</strong>, which keeps me sharp and accountable. I believe in that if you can explain it clearly, you actually understand it.
 </p>
 
 ###
@@ -32,23 +30,23 @@
 <table align="center">
   <tr>
     <td>🔭 Currently</td>
-    <td>Working as an ICT tutor while deepening my tech skills</td>
+    <td>Developing Data and Leadership skills for future</td>
   </tr>
   <tr>
     <td>📚 Studying</td>
-    <td>BSc in Computer Science @ University of Sri Jayewardenepura</td>
+    <td>B.comp (Hons.) in Computer Science @ University of Sri Jayewardenepura</td>
   </tr>
   <tr>
     <td>🎯 Focus areas</td>
-    <td>Data Analytics · Machine Learning · Project Management</td>
+    <td>Data Analytics · Data Science · Project Management</td>
   </tr>
   <tr>
     <td>🌱 Learning</td>
-    <td>Data pipelines, statistical thinking & ML workflows</td>
+    <td>Data Analysis, Machine Learning, Leadership</td>
   </tr>
   <tr>
     <td>⚡ Fun fact</td>
-    <td>Won best university entrance in ICT from my school — studied the degree I actually wanted</td>
+    <td>I am heavily detail oriented and analytical</td>
   </tr>
   <tr>
     <td>🚀 Long-term</td>
