@@ -44,7 +44,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-rodrigo&theme=radical" alt="anushka-rodrigo" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="anushka-rodrigo" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800" alt="anushka-rodrigo-top-langs" />
+
 </div>
 
 ###
