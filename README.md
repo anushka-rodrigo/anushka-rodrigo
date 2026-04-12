@@ -46,6 +46,9 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="anushka-rodrigo" />
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800" alt="anushka-rodrigo-top-langs" />
+  <img src="https://ghchart.rshah.org/anushka-rodrigo" alt="anushka-rodrigo's Github chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka-rodrigo&theme=radical" />
+
 
 </div>
 
