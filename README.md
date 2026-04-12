@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>⚡ Fun fact</td>
-    <td>I am heavily detail oriented and analytical</td>
+    <td>I am Heavily Detail Oriented and Analytical</td>
   </tr>
   <tr>
     <td>🚀 Long-term</td>
