@@ -19,13 +19,42 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+<p align="left">
+  I'm a <strong>Computer Science undergraduate</strong> at the University of Sri Jayewardenepura, building my foundation in <strong>Data Science, Analytics, and Machine Learning</strong> — while also developing an understanding of Technical Project Management and data-driven decision-making.
+  <br><br>
+  Alongside my degree, I work as an <strong>ICT tutor</strong>, which keeps me sharp and accountable. Teaching reinforces what I learn, and I genuinely believe that if you can explain it clearly, you actually understand it.
+  <br><br>
+  I don't study to pass. Everything I'm learning — statistical thinking, data pipelines, problem-solving frameworks — I'm consciously mapping to how I'll apply it professionally. My goal is to graduate not just with a degree, but with a mindset and skill set that's already been tested.
+</p>
+
 ###
 
-<p align="left">I am a positive-minded and motivated individual with a strong desire to succeed in everything I do. I work well both independently and in team settings, bringing a proactive and collaborative approach to every task. I have a strong interest in Data Science
-<br><br>
-  - 🔭 I’m working as an ICT tutor part time while improving my tech knowledge<br>
-  - 📚 I'm currently an undergraduate in University of Sri Jayewardenepura<br>
-  - ⚡ In my free time I work on honing my skills focusing in data science</p>
+<table align="center">
+  <tr>
+    <td>🔭 Currently</td>
+    <td>Working as an ICT tutor while deepening my tech skills</td>
+  </tr>
+  <tr>
+    <td>📚 Studying</td>
+    <td>BSc in Computer Science @ University of Sri Jayewardenepura</td>
+  </tr>
+  <tr>
+    <td>🎯 Focus areas</td>
+    <td>Data Analytics · Machine Learning · Project Management</td>
+  </tr>
+  <tr>
+    <td>🌱 Learning</td>
+    <td>Data pipelines, statistical thinking & ML workflows</td>
+  </tr>
+  <tr>
+    <td>⚡ Fun fact</td>
+    <td>Won best university entrance in ICT from my school — studied the degree I actually wanted</td>
+  </tr>
+  <tr>
+    <td>🚀 Long-term</td>
+    <td>Data Science → Project Management → Leadership (maybe academia too!)</td>
+  </tr>
+</table>
 
 ###
 
