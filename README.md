@@ -73,10 +73,9 @@
 ###
 
 <div align="center">
-
-<img src="https://github-readme-stats-navy-seven-93.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800&hide_border=true" height="180" alt="anushka-rodrigo" />
+<img src="https://github-readme-stats-git-master-anushkarodrigo14-2847.vercel.app/api?username=anushka-rodrigo&show_icons=true&locale=en&theme=radical&cache_seconds=1800&hide_border=true" height="180" alt="anushka-rodrigo" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-navy-seven-93.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800&hide_border=true&langs_count=6" height="180" alt="anushka-rodrigo-top-langs" />
+<img src="https://github-readme-stats-git-master-anushkarodrigo14-2847.vercel.app/api/top-langs/?username=anushka-rodrigo&layout=compact&theme=radical&cache_seconds=1800&hide_border=true&langs_count=6" height="180" alt="anushka-rodrigo-top-langs" />
 
 </div>
 
